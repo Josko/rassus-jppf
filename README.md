@@ -18,17 +18,16 @@ Dok u Eclipseu samo pokrenete projekt i unesete cvorove polinoma, npr.
 
 Obavezno pazite na format prilikom unosa. Pomoc za navigaciju vizualizacijom:
 
-╔════════╦═══════════════════════════════════════╗
-║ Tipka  ║                 Opis                  ║
-╠════════╬═══════════════════════════════════════╣
-║ F1     ║ Pomoc                                 ║
-║ ESC    ║ Reset parametara                      ║
-║ r      ║ Povratak na prethodni skup parametara ║
-║ lijevo ║ Pomak lijevo u ravnini                ║
-║ desno  ║ Pomak desno u ravnini                 ║
-║ gore   ║ Pomak gore u ravnini                  ║
-║ dolje  ║ Pomak dolje u ravnini                 ║
-║ +      ║ Uvecanje skale za 2x                  ║
-║ -      ║ Smanjenje skale za 2x                 ║
-╚════════╩═══════════════════════════════════════╝
-
++--------+---------------------------------------+
+| Tipka  |                 Opis                  |
++--------+---------------------------------------+
+| F1     | Pomoc                                 |
+| ESC    | Reset parametara                      |
+| r      | Povratak na prethodni skup parametara |
+| lijevo | Pomak lijevo u ravnini                |
+| desno  | Pomak desno u ravnini                 |
+| gore   | Pomak gore u ravnini                  |
+| dolje  | Pomak dolje u ravnini                 |
+| +      | Uvecanje skale za 2x                  |
+| -      | Smanjenje skale za 2x                 |
++--------+---------------------------------------+
