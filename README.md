@@ -16,6 +16,19 @@ Dok u Eclipseu samo pokrenete projekt i unesete cvorove polinoma, npr.
     0 - i1
     done
 
-Obavezno pazite na format prilikom unosa. Nakon toga koristite ESC za zoom te strelice za navigaciju.
+Obavezno pazite na format prilikom unosa. Pomoc za navigaciju vizualizacijom:
 
+╔════════╦═══════════════════════════════════════╗
+║ Tipka  ║                 Opis                  ║
+╠════════╬═══════════════════════════════════════╣
+║ F1     ║ Pomoc                                 ║
+║ ESC    ║ Reset parametara                      ║
+║ r      ║ Povratak na prethodni skup parametara ║
+║ lijevo ║ Pomak lijevo u ravnini                ║
+║ desno  ║ Pomak desno u ravnini                 ║
+║ gore   ║ Pomak gore u ravnini                  ║
+║ dolje  ║ Pomak dolje u ravnini                 ║
+║ +      ║ Uvecanje skale za 2x                  ║
+║ -      ║ Smanjenje skale za 2x                 ║
+╚════════╩═══════════════════════════════════════╝
 
