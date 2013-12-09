@@ -68,7 +68,6 @@ public class FractalTask extends JPPFTask {
 	public void run() {
 		final short[] data = new short[width * (yMax - yMin)];
 		
-		//int offset = width * yMin;
 		int offset = 0;
 		final double creFactor = (reMax - reMin) / (width - 1.0);
 		final double cimFactor = (imMax - imMin) / (height - 1.0);
